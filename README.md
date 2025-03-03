@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi I'm Thamer
-
+### Hi I'm Thamer
+Everything is under development now!
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ythamer_) 
